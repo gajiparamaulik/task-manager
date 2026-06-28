@@ -31,4 +31,4 @@ const userLoginValidator = () => {
     ]
 }
 
-export { userRegisterionValidator };
+export { userRegistertionValidator, userLoginValidator };
